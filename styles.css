@@ -4,8 +4,9 @@ img {
 body {
     text-align: center;
     font-family: "Arial";
-    background-image: url(https://i.redd.it/ll91liwu065y.png);
+    background-image: url(https://pinchofyum.com/wp-content/uploads/Dog-Treats-3-ER.jpg);
     background-attachment: fixed;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
+    color: green;
 }
