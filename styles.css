@@ -4,9 +4,14 @@ img {
 body {
     text-align: center;
     font-family: "Arial";
-    background-image: url(https://pinchofyum.com/wp-content/uploads/Dog-Treats-3-ER.jpg);
+    background-image: url(https://pre00.deviantart.net/13f9/th/pre/i/2016/036/c/a/fanart__miraculous_ladybug_by_mariadenisebrebos-d9qmyip.png);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
-    color: green;
+    color: white;
 }
+h1 {
+    margin:auto;
+    width: 70%; 
+}
+
