@@ -15,17 +15,19 @@ h1 {
     width: 70%; 
 }
 button {
-    background-color: #000000;
-    border: none;
-    color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    background-color: black;
+    color: white;
+    border: 3px solid #ffffff;
 }
+
 button:hover {
-    -webkit-transition-duration: 0.4s;
-    transition-duration: 0.4s;
-    
+    background-color: #ffffff;
+    color: black;
+    border: 3px solid #000000;
 }
+
