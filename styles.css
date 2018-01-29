@@ -4,7 +4,7 @@ img {
 body {
     text-align: center;
     font-family: "Arial";
-    background-image: url(https://pre00.deviantart.net/13f9/th/pre/i/2016/036/c/a/fanart__miraculous_ladybug_by_mariadenisebrebos-d9qmyip.png);
+    background-image: url(http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Free-Black-Wallpaper-12.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -13,16 +13,68 @@ body {
 h1 {
     margin:auto;
     width: 70%; 
+    color: White
+    
 }
-button {
+button1 {
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    background-color: black;
-    color: white;
-    border: 3px solid #ffffff;
+    background-color: Red;
+    color: Black;
+    border: 3px solid Black;
+}
+button2 {
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color: Black;
+    color: LawnGreen;
+    border: 3px solid LawnGreen;
+}
+button3 {
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color: Red;
+    color: Black;
+    border: 3px solid Black;
+}
+button4 {
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color: Black;
+    color: LawnGreen;
+    border: 3px solid LawnGreen;
+}
+button5 {
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color: Red;
+    color: Black;
+    border: 3px solid Black;
+}
+button6 {
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color: Black;
+    color: LawnGreen;
+    border: 3px solid LawnGreen;
 }
 
 button:hover {
