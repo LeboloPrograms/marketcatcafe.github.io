@@ -4,94 +4,49 @@ img {
 body {
     text-align: center;
     font-family: "Arial";
-    background-image: url(http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Free-Black-Wallpaper-12.jpg);
+    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/Ca60XcU/entrancing-magical-night-landscape-lawn-from-the-woods-the-night-of-the-lake-clear-sky-with-constellations-and-the-moon_4jxd7qns__F0000.png);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
-    color: white;
+    color: White;
+    font-size: 16px; 
 }
 h1 {
     margin:auto;
     width: 70%; 
-    color: White
+    color: White;
     
 }
-button1 {
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    background-color: Red;
-    color: Black;
-    border: 3px solid Black;
-}
-button2 {
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    background-color: Black;
-    color: LawnGreen;
-    border: 3px solid LawnGreen;
-}
-button3 {
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    background-color: Red;
-    color: Black;
-    border: 3px solid Black;
-}
-button4 {
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    background-color: Black;
-    color: LawnGreen;
-    border: 3px solid LawnGreen;
-}
-button5 {
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    background-color: Red;
-    color: Black;
-    border: 3px solid Black;
-}
-button6 {
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    background-color: Black;
-    color: LawnGreen;
-    border: 3px solid LawnGreen;
+h2 {
+    font-size: 27px;
+    width: auto;
+    color: Red;
 }
 
-button:hover {
-    background-color: #ffffff;
-    color: black;
-    border: 3px solid #000000;
-}
-a:link, a:visited {
-    background-color: #f44336;
-    color: white;
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
+h3 {
+   font-size: 27px;
+   width: auto;
+   color: blue;
+   border-color: lightblue;
+   
 }
 
+h4 {
+    font-size: 27px;
+    width: auto;
+    color: LightGreen;
+    border-color: Green;
+}
 
-a:hover, a:active {
-    background-color: red;
+h5 {
+    font-size: 27px;
+    width: auto;
+    color: Orange;
+    border-color:Gold;
+}
+
+h6 {
+    font-size: 27px;
+    width: auto;
+    color:Fuchsia;
 }
